@@ -33,4 +33,5 @@ Link: https://www.spriters-resource.com/submitter/IceisNice/
 EternalLight for the Objects/Misc Sprites
 Link: https://www.spriters-resource.com/submitter/Gussprint/
 
-- - - - Special Credits for - - - SEGA, Sonic Team and Dimps for all game Sprites
+- - - - Special Credits for - - - -
+SEGA, Sonic Team and Dimps for all game Sprites
