@@ -1,0 +1,62 @@
+{
+	   //////////////////////////////
+	 //                  SFX                 //
+   //////////////////////////////
+	
+	//Destroy
+	"3D": {
+	"File": "sfx/destroy.ogg",
+	"Type": "Sound" },
+	
+	//Player - Sonic Insta Shield
+	"42": {
+	 "File": "sfx/player/insta-shield.ogg",
+	"Type": "Sound" },
+	
+	//Jump
+	"62": {
+	 "File": "sfx/player/jump.ogg",
+	 "Type": "Sound" },
+	
+	//Spindash
+	"AB": {
+	 "File": "sfx/player/roll.ogg",
+	 "Type": "Sound" },
+	
+	//Roll
+	"3C": {
+	 "File": "sfx/player/roll.ogg",
+	 "Type": "Sound" },
+	
+	//Skid
+	"36": { "File": "sfx/player/skid.ogg",
+	 "Type": "Sound" },
+	
+	//Air bubble
+	"38": { "File": "sfx/air_bubble.ogg",
+	 "Type": "Sound" },
+	
+	//Error!
+	"B2": { "File": "sfx/error.ogg", "Type": "Sound" },
+	
+	//5B Sound
+	"5B": { "File": "sfx/menu_move.ogg", "Type": "Sound" },
+	//Ring 
+	"33": { "File": "sfx/ring.ogg", "Type": "Sound" }, //L
+	"34": { "File": "sfx/ring.ogg", "Type": "Sound" },//R
+	
+	//Check a point
+	"63": { "File": "sfx/checkpoint.ogg", "Type": "Sound" },
+	
+	//Score Sound
+	//"B0": { "File": "sfx/?.ogg", "Type": "Sound" },
+	
+	//Spring Sound
+	"B1": { "File": "sfx/spring.ogg", "Type": "Sound" },
+	
+	//Spindash - Release
+	"B6": { "File": "sfx/player/spindash_release.ogg", "Type": "Sound" },
+	
+	//OUCH! ( Ring Loss )
+	"B9": { "File": "sfx/ring_loss.ogg", "Type": "Sound" },
+}
