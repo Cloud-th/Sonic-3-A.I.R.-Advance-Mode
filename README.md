@@ -6,14 +6,12 @@ Many have incomplete sprites, others were not even finished completely
 
                          That mod has...
 
-                      • Custom SFX
-                      • Sonic sprites ( Incomplete )
-                      • Tails' Custom sprites ( Incomplete )
-                      • Custom Data select background
-                      • Custom "Data Select" Text
+                   • Custom SFX
+                   • Sonic sprites ( Incomplete )
+                   • Tails' Custom sprites ( Incomplete )
+                   • Custom Data select background
+                   • Custom "Data Select" Text
 
 
-   Found a bug or want to chat with me? Send me a DM on Discord!
-                          Sonikkun#8931
-
-                             Enjoy!
+   Found a bug or want to chat with me? Send me a DM on Discord! ( Sonikkun#8931 )
+                          Enjoy!
