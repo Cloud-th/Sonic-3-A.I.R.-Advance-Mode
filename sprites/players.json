@@ -213,7 +213,7 @@
 	"character_sonic_0xb8": { "File": "players/sonic/character_sonic.png", "Rect": "404,624,32,40", "Center": "19,20" },
 	"character_sonic_0xb9": { "File": "players/sonic/character_sonic.png", "Rect": "464,624,24,40", "Center": "11,20" },
 	
-	//Idle ( Again )
+	//Idle
 	"character_sonic_0xba":  { "File": "players/sonic/character_sonic.bmp", "Rect": "516,624,32,40", "Center": "22,19" },
 	
 	//Waiting...
@@ -223,29 +223,29 @@
 	"character_sonic_0xbe": { "File": "players/sonic/character_sonic.png", "Rect": "740,624,32,40", "Center": "18,20" },
 	
 	//Waiting... ( Unused )
-	"character_sonic_0xbf": { "File": "players/sonic/character_sonic.png", "Rect": "796,624,32,40", "Center": "18,20" },
+	/* "character_sonic_0xbf": { "File": "players/sonic/character_sonic.png", "Rect": "796,624,32,40", "Center": "18,20" },
 	"character_sonic_0xc0": { "File": "players/sonic/character_sonic.png", "Rect": "852,624,32,40", "Center": "18,20" },
 	"character_sonic_0xc1": { "File": "players/sonic/character_sonic.png", "Rect": "12,680,32,40", "Center": "13,20" },
-	"character_sonic_0xc2": { "File": "players/sonic/character_sonic.png", "Rect": "68,680,32,40", "Center": "13,20" },
+	"character_sonic_0xc2": { "File": "players/sonic/character_sonic.png", "Rect": "68,680,32,40", "Center": "13,20" }, */
 	
 	//Look Up
 	"character_sonic_0xc3":  { "File": "players/sonic/character_sonic.bmp", "Rect": "124,680,32,40", "Center": "18,19" },
 	"character_sonic_0xc4":  { "File": "players/sonic/character_sonic.bmp", "Rect": "176,680,40,40", "Center": "20,19" },
 	
-	//Whisper ( Unused )
+	/* //Whisper ( Unused )
 	"character_sonic_0xc5": { "File": "players/sonic/character_sonic.png", "Rect": "236,680,32,40", "Center": "19,20" },
 	"character_sonic_0xc6": { "File": "players/sonic/character_sonic.png", "Rect": "292,680,32,40", "Center": "18,20" },
-	"character_sonic_0xc7": { "File": "players/sonic/character_sonic.png", "Rect": "348,680,32,40", "Center": "19,20" },
+	"character_sonic_0xc7": { "File": "players/sonic/character_sonic.png", "Rect": "348,680,32,40", "Center": "19,20" }, */
 	
 	//Float
-	"character_sonic_0xc8": { "File": "players/sonic/character_sonic.png", "Rect": "396,688,48,24", "Center": "29,12" },
+	/* "character_sonic_0xc8": { "File": "players/sonic/character_sonic.png", "Rect": "396,688,48,24", "Center": "29,12" },
 	"character_sonic_0xc9": { "File": "players/sonic/character_sonic.png", "Rect": "456,688,40,24", "Center": "20,12" },
 	"character_sonic_0xca": { "File": "players/sonic/character_sonic.png", "Rect": "516,688,32,24", "Center": "17,12" },
 	"character_sonic_0xcb": { "File": "players/sonic/character_sonic.png", "Rect": "568,688,40,24", "Center": "21,12" },
 	"character_sonic_0xcc": { "File": "players/sonic/character_sonic.png", "Rect": "620,688,48,24", "Center": "18,12" },
 	"character_sonic_0xcd": { "File": "players/sonic/character_sonic.png", "Rect": "680,688,40,24", "Center": "22,12" },
 	"character_sonic_0xce": { "File": "players/sonic/character_sonic.png", "Rect": "740,688,32,24", "Center": "17,12" },
-	"character_sonic_0xcf": { "File": "players/sonic/character_sonic.png", "Rect": "792,688,40,24", "Center": "17,12" },
+	"character_sonic_0xcf": { "File": "players/sonic/character_sonic.png", "Rect": "792,688,40,24", "Center": "17,12" }, */
 	
 	//Falling ( Again )
 	"character_sonic_0xd0": { "File": "players/sonic/character_sonic.png", "Rect": "848,684,40,32", "Center": "20,8" },
@@ -263,12 +263,12 @@
 	"character_sonic_0xd8": { "File": "players/sonic/character_sonic.png", "Rect": "400,740,40,32", "Center": "24,13" },
 	
 	//Why are there 6 equal sprites here??????
-	"character_sonic_0xda": { "File": "players/sonic/character_sonic.png", "Rect": "516,736,32,40", "Center": "16,20" },
+	/* "character_sonic_0xda": { "File": "players/sonic/character_sonic.png", "Rect": "516,736,32,40", "Center": "16,20" },
 	"character_sonic_0xdb": { "File": "players/sonic/character_sonic.png", "Rect": "572,736,32,40", "Center": "16,20" },
 	"character_sonic_0xdc": { "File": "players/sonic/character_sonic.png", "Rect": "628,736,32,40", "Center": "16,20" },
 	"character_sonic_0xdd": { "File": "players/sonic/character_sonic.png", "Rect": "684,736,32,40", "Center": "16,20" },
 	"character_sonic_0xde": { "File": "players/sonic/character_sonic.png", "Rect": "740,736,32,40", "Center": "16,20" },
-	"character_sonic_0xdf": { "File": "players/sonic/character_sonic.png", "Rect": "796,736,32,40", "Center": "16,20" },
+	"character_sonic_0xdf": { "File": "players/sonic/character_sonic.png", "Rect": "796,736,32,40", "Center": "16,20" }, */
 	
 	//
 	"character_sonic_0xe0": { "File": "players/sonic/character_sonic.png", "Rect": "856,740,24,32", "Center": "12,16" },
@@ -292,7 +292,7 @@
 	"character_sonic_0xee": { "File": "players/sonic/character_sonic.png", "Rect": "732,792,48,40", "Center": "24,20" },
 	
 	//Spiral Run
-	"character_sonic_0xef": { "File": "players/sonic/character_sonic.png", "Rect": "796,792,32,40", "Center": "16,20" },
+	/* "character_sonic_0xef": { "File": "players/sonic/character_sonic.png", "Rect": "796,792,32,40", "Center": "16,20" },
 	"character_sonic_0xf0": { "File": "players/sonic/character_sonic.png", "Rect": "852,792,32,40", "Center": "16,20" },
 	"character_sonic_0xf1": { "File": "players/sonic/character_sonic.png", "Rect": "16,848,24,40", "Center": "12,20" },
 	"character_sonic_0xf2": { "File": "players/sonic/character_sonic.png", "Rect": "72,848,24,40", "Center": "12,20" },
@@ -303,28 +303,32 @@
 	"character_sonic_0xf7": { "File": "players/sonic/character_sonic.png", "Rect": "352,848,24,40", "Center": "12,20" },
 	"character_sonic_0xf8": { "File": "players/sonic/character_sonic.png", "Rect": "408,848,24,40", "Center": "12,20" },
 	"character_sonic_0xf9": { "File": "players/sonic/character_sonic.png", "Rect": "464,848,24,40", "Center": "12,20" },
-	"character_sonic_0xfa": { "File": "players/sonic/character_sonic.png", "Rect": "516,848,32,40", "Center": "16,20" },
+	"character_sonic_0xfa": { "File": "players/sonic/character_sonic.png", "Rect": "516,848,32,40", "Center": "16,20" }, */
 	
 	//Drop Dash sprites
 	"sonic_dropdash_0": { "File": "players/sonic/sonic_dropdash.png", "Rect":  "1,1,32,32", "Center": "16,16" },
 	"sonic_dropdash_1": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,1,32,32", "Center": "16,16" },
-	"sonic_dropdash_2": { "File": "players/sonic/sonic_dropdash.png", "Rect": "67,1,32,32", "Center": "16,16" },
-	"sonic_dropdash_3": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,1,32,32", "Center": "16,16" },
 	
-	"sonic_dropdash_4": { "File": "players/sonic/sonic_dropdash.png", "Rect":  "1,34,32,32", "Center": "16,16" },
-	"sonic_dropdash_5": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,34,32,32", "Center": "16,16" },
-	"sonic_dropdash_6": { "File": "players/sonic/sonic_dropdash.png", "Rect": "67,34,32,32", "Center": "16,16" },
-	"sonic_dropdash_7": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,34,32,32", "Center": "16,16" },
+	//Drop Dash + / Fluid Mania Animations compatibility
+	"sonic_dropdash_mania_0": { "File": "players/sonic/sonic_dropdash.png", "Rect":  "1,1,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_1": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,1,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_2": { "File": "players/sonic/sonic_dropdash.png", "Rect": "67,1,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_3": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,1,32,32", "Center": "16,16" },
 	
-	"sonic_dropdash_8": { "File": "players/sonic/sonic_dropdash.png", "Rect": "1,67,32,32", "Center": "16,16" },
-	"sonic_dropdash_9": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,67,32,32", "Center": "16,16" },
-	"sonic_dropdash_10": { "File": "players/sonic/sonic_dropdash.png", "Rect":  "67,67,32,32", "Center": "16,16" },
-	"sonic_dropdash_11": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,67,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_4": { "File": "players/sonic/sonic_dropdash.png", "Rect":  "1,34,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_5": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,34,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_6": { "File": "players/sonic/sonic_dropdash.png", "Rect": "67,34,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_7": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,34,32,32", "Center": "16,16" },
 	
-	"sonic_dropdash_12": { "File": "players/sonic/sonic_dropdash.png", "Rect": "1,100,32,32", "Center": "16,16" },
-	"sonic_dropdash_13": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,100,32,32", "Center": "16,16" },
-	"sonic_dropdash_14": { "File": "players/sonic/sonic_dropdash.png", "Rect": "67,100,32,32", "Center": "16,16" },
-	"sonic_dropdash_15": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,100,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_8": { "File": "players/sonic/sonic_dropdash.png", "Rect": "1,67,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_9": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,67,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_10": { "File": "players/sonic/sonic_dropdash.png", "Rect":  "67,67,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_11": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,67,32,32", "Center": "16,16" },
+	
+	"sonic_dropdash_mania_12": { "File": "players/sonic/sonic_dropdash.png", "Rect": "1,100,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_13": { "File": "players/sonic/sonic_dropdash.png", "Rect": "34,100,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_14": { "File": "players/sonic/sonic_dropdash.png", "Rect": "67,100,32,32", "Center": "16,16" },
+	"sonic_dropdash_mania_15": { "File": "players/sonic/sonic_dropdash.png", "Rect": "100,100,32,32", "Center": "16,16" },
 	
 	//Super Peel Out Sprites
 	"sonic_peelout_0": { "File": "players/sonic/sonic_super_peel_out.png", "Rect":  "1,1,34,31", "Center": "16,10" },
@@ -333,20 +337,20 @@
 	"sonic_peelout_3": { "File": "players/sonic/sonic_super_peel_out.png", "Rect": "112,1,34,31", "Center": "16,10" },
 
 	//Run
-	"players/sonic/bluesphere_sonic_0x01": { "File": "players/sonic/bluesphere_sonic_idle.png", "Rect": "0,0,32,48", "Center": "16,35" },
+	"bluesphere_sonic_0x01": { "File": "players/sonic/bluesphere_sonic_idle.png", "Rect": "0,0,32,48", "Center": "16,35" },
 	
-	"players/sonic/bluesphere_sonic_0x02": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "1,1,32,48", "Center": "16,43" },
-	"players/sonic/bluesphere_sonic_0x03": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "3 4,1,32,48 ", "Center": "16,43" },
-	"players/sonic/bluesphere_sonic_0x04": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "67,9,32,40", "Center": "16,43" },
-	"players/sonic/bluesphere_sonic_0x05": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "100,1,32,48", "Center": "18,43" },
-	"players/sonic/bluesphere_sonic_0x06": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "133,1,32,48", "Center": "17,43" },
-	"players/sonic/bluesphere_sonic_0x07": { "File": "players/sonic/bluesphere_sonic.png", "Rect": ",32,40", "Center": "17,43" },
-	"players/sonic/bluesphere_sonic_0x08": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "1,1,32,48", "Center": "16,43" },
+	"bluesphere_sonic_0x02": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "1,1,32,48", "Center": "16,43" },
+	"bluesphere_sonic_0x03": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "3 4,1,32,48 ", "Center": "16,43" },
+	"bluesphere_sonic_0x04": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "67,9,32,40", "Center": "16,43" },
+	"bluesphere_sonic_0x05": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "100,1,32,48", "Center": "18,43" },
+	"bluesphere_sonic_0x06": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "133,1,32,48", "Center": "17,43" },
+	"bluesphere_sonic_0x07": { "File": "players/sonic/bluesphere_sonic.png", "Rect": ",32,40", "Center": "17,43" },
+	"bluesphere_sonic_0x08": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "1,1,32,48", "Center": "16,43" },
 	
 	//Jump
-	/* "players/sonic/bluesphere_sonic_0x09": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "256,12,32,32", "Center": "16,38" },
-	"players/sonic/bluesphere_sonic_0x0a": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "288,12,32,32", "Center": "16,38" },
-	"players/sonic/bluesphere_sonic_0x0b": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "320,12,32,32", "Center": "16,38" }, */
+	/* "bluesphere_sonic_0x09": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "256,12,32,32", "Center": "16,38" },
+	"bluesphere_sonic_0x0a": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "288,12,32,32", "Center": "16,38" },
+	"bluesphere_sonic_0x0b": { "File": "players/sonic/bluesphere_sonic.png", "Rect": "320,12,32,32", "Center": "16,38" }, */
 	
 	//Super Sonic - Jog
 	/*"character_supersonic_0x01": { "File": "players/sonic/character_supersonic.png", "Rect": "8,4,40,48", "Center": "20,28" },
@@ -581,13 +585,14 @@
 	"character_supersonic_0xba": { "File": "players/sonic/character_supersonic.png", "Rect": "250,68,32,40", "Center": "16,20" },
 	"character_supersonic_0xbb": { "File": "players/sonic/character_supersonic.png", "Rect": "250,68,32,40", "Center": "16,20" },
 	
+	/*
 	"character_supersonic_0xbc": { "File": "players/sonic/character_supersonic.png", "Rect": "624,620,40,48", "Center": "24,28" },
 	"character_supersonic_0xbd": { "File": "players/sonic/character_supersonic.png", "Rect": "680,620,40,48", "Center": "24,28" },
 	"character_supersonic_0xbe": { "File": "players/sonic/character_supersonic.png", "Rect": "736,620,40,48", "Center": "24,28" },
 	"character_supersonic_0xbf": { "File": "players/sonic/character_supersonic.png", "Rect": "792,620,40,48", "Center": "24,28" },
 	"character_supersonic_0xc0": { "File": "players/sonic/character_supersonic.png", "Rect": "848,620,40,48", "Center": "24,28" },
 	"character_supersonic_0xc1": { "File": "players/sonic/character_supersonic.png", "Rect": "8,676,40,48", "Center": "24,28" },
-	"character_supersonic_0xc2": { "File": "players/sonic/character_supersonic.png", "Rect": "64,676,40,48", "Center": "24,28" },
+	"character_supersonic_0xc2": { "File": "players/sonic/character_supersonic.png", "Rect": "64,676,40,48", "Center": "24,28" }, */
 	
 	//Look up
 	"character_supersonic_0xc3": { "File": "players/sonic/character_supersonic.png", "Rect": "202,2,32,40", "Center": "18,19" },
@@ -609,10 +614,10 @@
 	"character_supersonic_0xd3": { "File": "players/sonic/character_supersonic.png", "Rect": "124,732,32,48", "Center": "13,24" },
 	"character_supersonic_0xd4": { "File": "players/sonic/character_supersonic.png", "Rect": "180,732,32,48", "Center": "16,24" },
 	"character_supersonic_0xd5": { "File": "players/sonic/character_supersonic.png", "Rect": "236,732,32,48", "Center": "16,24" },
-	"character_supersonic_0xd6": { "File": "players/sonic/character_supersonic.png", "Rect": "292,732,32,48", "Center": "16,24" }, */
+	"character_supersonic_0xd6": { "File": "players/sonic/character_supersonic.png", "Rect": "292,732,32,48", "Center": "16,24" },
 	
 
-	/* "character_supersonic_0xda": { "File": "players/sonic/character_supersonic.png", "Rect": "516,736,32,40", "Center": "16,20" },
+	 "character_supersonic_0xda": { "File": "players/sonic/character_supersonic.png", "Rect": "516,736,32,40", "Center": "16,20" },
 	"character_supersonic_0xdb": { "File": "players/sonic/character_supersonic.png", "Rect": "572,736,32,40", "Center": "16,20" },
 	"character_supersonic_0xdc": { "File": "players/sonic/character_supersonic.png", "Rect": "628,736,32,40", "Center": "16,20" },
 	"character_supersonic_0xdd": { "File": "players/sonic/character_supersonic.png", "Rect": "684,736,32,40", "Center": "16,20" },

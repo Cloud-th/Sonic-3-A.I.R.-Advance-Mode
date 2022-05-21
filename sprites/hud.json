@@ -98,6 +98,6 @@
 	"Result_Text_SPECIAL_STAGE_chaosstage":  { "File": "hud/display.png", "Rect": "1,109,147,16", "Center": "66,0" },
 	"Result_Text_CHAOS_EMERALD": { "File": "hud/display.png", "Rect": "1,91,161,16", "Center": "100,0" },
 	//Mods Support
-	"hyper_ring_icon":  { "File": "hud/mods support/hyper_ring.png", "Rect": "0,0,17,25", "Center": "-17,23" },
+	"hyper_ring_icon":  { "File": "mods support/hud/hyper_ring.png", "Rect": "0,0,17,25", "Center": "-17,23" },
 	
 }
