@@ -1,22 +1,3 @@
 {
-	"bg_dataselect":      { "File": "data select/data_select_bg.png"},
-	
-	//"Data Select" Personalizer Text Compatibility
-	"Black":  { "File": "data select/mods support/Data Select Text Personalizer/data_select_text.png", "Rect": "0,0,400,17", "Center": "200,200" },
-	"White":  { "File": "data select/mods support/Data Select Text Personalizer/data_select_text.png", "Rect": "0,0,400,17", "Center": "200,200" },
-	"Custom":  { "File": "data select/mods support/Data Select Text Personalizer/data_select_text.png", "Rect": "0,0,400,17", "Center": "200,200" },
-	
-	// Character selection icons
-	"dataSel_character_sonic":  { "File": "data select/character/dataSel_character_sonic.png", "Center": "18,40" },
-	"dataSel_character_tails":  { "File": "data select/character/dataSel_character_tails.png", "Center": "18,35" },
-	"dataSel_character_knuckles":  { "File": "data select/character/dataSel_character_knuckles.png", "Center": "13,40" },
-	
-	// Character life and continue icons in deta select screen :)
-	"dataSel_life_sonic":  { "File": "data select/character/dataSel_life_sonic.png", "Rect": "0,0,16,16", "Center": "16,-8" },
-	"dataSel_Continue_sonic":  { "File": "data select/character/dataSel_continue_sonic.png", "Rect": "0,0,14,14,", "Center": "16,-8" },
-	"dataSel_life_tails":  { "File": "data select/character/dataSel_life_tails.png", "Rect": "0,0,16,16", "Center": "16,-8" },
-	"dataSel_Continue_tails":  { "File": "data select/character/dataSel_continue_tails.png", "Rect": "0,0,14,14", "Center": "16,-8" },
-	//"dataSel_life_knuckles":  { "File": "data select/character/dataSel_life_knuckles.png", "Rect": "0,0,16,16", "Center": "16,-8" },
-	//"dataSel_Continue_knuckles":  { "File": "data select/character/dataSel_life_knuckles.png", "Rect": "0,0,14,14", "Center": "16,-8" },
-	
+	"bg_dataselect":      { "File": "data select/data_select_bg.png" }
 } 
