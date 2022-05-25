@@ -40,7 +40,11 @@ function void Standalone.drawCharacterSpriteDirect(u8 character, s16 px, s16 py,
 	if (key == 0 && animationSpriteEx >= 0x100)
 	{
 		// Custom added sprites for Sonic's Drop Dash & Super Peel-Out
-		if (animationSpriteEx >= CHAR_ANIMSPRITE_SONIC_DROPDASH)
+		if (animationSpriteEx >= CHAR_ANIMSPRITE_SONIC_PEELOUT)
+		{
+			key = stringformat("sonic_peelout_%d", animationSpriteEx - CHAR_ANIMSPRITE_SONIC_PEELOUT)
+		}
+		else
 		{
 			key = stringformat("sonic_dropdash_%d", animationSpriteEx - CHAR_ANIMSPRITE_SONIC_DROPDASH)
 		}
@@ -209,15 +213,15 @@ function bool Standalone.drawCharacterSprite(u8 character, u8 variant, s16 px, s
 		if (animationSpriteEx >= 0x100)
 		{
 			// Special handling for Drop Dash & Super Peel-Out
-			if (Mods.isModActive("Drop Dash+") && animationSpriteEx >= CHAR_ANIMSPRITE_SONIC_DROPDASH)
-			{
-				key = stringformat("sonic_dropdash_mania_%d", animationSpriteEx - CHAR_ANIMSPRITE_SONIC_DROPDASH)
-			}
-			else
-			{
-				key = stringformat("sonic_dropdash_%d", animationSpriteEx - CHAR_ANIMSPRITE_SONIC_DROPDASH)
-			}
+			if (animationSpriteEx >= CHAR_ANIMSPRITE_SONIC_PEELOUT)
+		{
+			key = stringformat("sonic_peelout_%d", animationSpriteEx - CHAR_ANIMSPRITE_SONIC_PEELOUT)
 		}
+		else
+		{
+			key = stringformat("sonic_dropdash_%d", animationSpriteEx - CHAR_ANIMSPRITE_SONIC_DROPDASH)
+		}
+	}
 		if (isPlayer1)
 			timeattack.animSpriteEx = animationSpriteEx
 
