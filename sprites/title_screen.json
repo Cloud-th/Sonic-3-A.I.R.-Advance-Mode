@@ -1,0 +1,6 @@
+{
+	
+	"title_screen_start": { "File": "title screen/press_start.png", "Rect": "0,0,104,13",  "Center": "55,8" },
+	"title_screen_start_jp": { "File": "title screen/press_start_jp.png", "Rect": "0,0,177,14",  "Center": "87,8" },
+	
+}
