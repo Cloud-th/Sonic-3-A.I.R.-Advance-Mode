@@ -1,0 +1,58 @@
+{
+	"Metadata":
+	{
+		"Name":"Advance Mode",
+		"Author": "Sonikkun8931",
+		"Description": "This mod changes the sprites and SFX for the Sonic Advance trilogy version!\nActivate the 'Smooth Shield Sprites' mod for the Insta-Shield and Linghtning Shield sprites work!\n Use the 'Drop Dash+' mod for Sonic's Drop Dash sprites to be complete",
+		"ModVersion":"1.1",
+		"GameVersion": "20.07.18.0",
+		"URL": "https://gamebanana.com/members/1882404"
+	},
+	"Settings":
+	{
+		"Game Settings":
+		[
+			{
+				"InternalName": "AdvanceGameStyle",
+				"DisplayName": "Advance Game Style",
+				"Variable": "GameStyle",
+				"Category": "General",
+				"DefaultValue": "0x00",
+				"Options":
+				{
+				"0x00": "Advance 1",
+				"0x01": "Advance 2",
+				"0x02": "Advance 3"
+				}
+			},
+			{
+				"InternalName": "RegionType",
+				"DisplayName": "Language of the Mod",
+				"Variable": "ModLang",
+				"Category": "General",
+				"DefaultValue": "0x00",
+				"Options":
+				{
+				"0x00": "English (Default)",
+				"0x01": "Coming soon...",
+				"0x02": "Coming soon..."
+				}
+			}
+		],
+		"Audio, Sprites, Etc":
+		[
+			{
+				"InternalName": "CustomGameMusic",
+				"DisplayNane": "Custom Music ?",
+				"Category": "Miscellaneous",
+				"Variable": "CustomMusic",
+				"DefaultValue": "0x00",
+				"Options":
+				{
+					"0x00": "Disabled ( Default )",
+					"0x02": "Enabled"
+				}
+			}
+		]
+	}
+}
